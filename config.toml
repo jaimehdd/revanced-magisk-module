@@ -62,7 +62,7 @@ app-name = "YouTube"
 excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
+rv-brand = "ReVanced Extended Anddea"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
@@ -74,7 +74,7 @@ app-name = "YTMusic"
 excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
+rv-brand = "ReVanced Extended Anddea"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [Messenger]
